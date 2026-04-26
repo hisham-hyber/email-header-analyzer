@@ -7,7 +7,7 @@ A simple browser-based tool to analyze email headers and extract metadata such a
 - Server providers (Google, SendGrid, etc.)
 
 ## Demo
-https://github.com/hisham-hyber/fingerprint-entropy-demo
+https://hisham-hyber.github.io/email-header-analyzer/
 ## Usage
 1. Open the tool
 2. Paste email headers
