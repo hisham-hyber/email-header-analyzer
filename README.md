@@ -7,7 +7,6 @@ A simple browser-based tool to analyze email headers and extract metadata such a
 - Server providers (Google, SendGrid, etc.)
 
 ## Demo
-(سيضاف لاحقاً بعد تفعيل Pages)
 
 ## Usage
 1. Open the tool
